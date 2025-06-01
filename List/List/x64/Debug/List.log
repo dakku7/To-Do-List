@@ -1,0 +1,3 @@
+﻿  List.cpp
+D:\visualcode\List\List\List.cpp(160,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  List.vcxproj -> D:\visualcode\List\x64\Debug\List.exe
