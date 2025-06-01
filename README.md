@@ -29,7 +29,7 @@ This is a simple console-based To-Do List application written in C++. It allows 
     
 3. Run the application:
     ```bash
-    ./todo
+    ./List
 Follow the on-screen instructions to manage your tasks.
 
 ## Debugging
