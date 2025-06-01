@@ -32,6 +32,6 @@ This is a simple console-based To-Do List application written in C++. It allows 
     ./todo
 Follow the on-screen instructions to manage your tasks.
 
-##Debugging
+## Debugging
 
 The application includes debugging options. You can enable or disable debugging by defining or commenting out the #define DEBUG and #define DEBUGo lines in the code.
